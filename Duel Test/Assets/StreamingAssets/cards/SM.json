@@ -1,0 +1,42 @@
+[
+  {
+    "deck": "yugi",
+    "karten" : [
+      {
+        "cardName": "Dark Magician",
+        "attack": 2500,
+        "defense": 2100,
+        "level": 7,
+        "artworkPath": "Sprites/Schwarzer_Magier"
+      },
+      {
+        "cardName": "Dark Magician",
+        "attack": 2500,
+        "defense": 2100,
+        "level": 7,
+        "artworkPath": "Sprites/Schwarzer_Magier"
+      }
+    ]
+  },
+  {
+    "deck": "kaiba",
+    "karten" : [
+      {
+        "cardName": "Weiser Drache mit eiskaltem Blick",
+        "attack": 3000,
+        "defense": 2500,
+        "level": 7,
+        "artworkPath": "Sprites/Weiser_Drache"
+      },
+      {
+        "cardName": "Dark Magician",
+        "attack": 2500,
+        "defense": 2100,
+        "level": 7,
+        "artworkPath": "Sprites/Schwarzer_Magier"
+      }
+    ]
+  }
+]
+ 
+  

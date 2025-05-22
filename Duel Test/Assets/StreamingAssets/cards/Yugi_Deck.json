@@ -1,0 +1,115 @@
+{
+  "deckname": "Yugi_Battle_City",
+  "cards": [
+    {
+      "cardName": "Dark Magician",
+      "attack": 2500,
+      "defense": 2100,
+      "level": 7,
+      "type": "Monster",
+      "artworkPath": "Sprites/Dark_Magician"
+    },
+    {
+      "cardName": "Dark Magician Girl",
+      "attack": 2000,
+      "defense": 1700,
+      "level": 6,
+      "type": "Monster",
+      "artworkPath": "Sprites/Dark_Magician_Girl"
+    },
+    {
+      "cardName": "Kuriboh",
+      "attack": 300,
+      "defense": 200,
+      "level": 1,
+      "type": "Monster",
+      "artworkPath": "Sprites/Kuriboh"
+    },
+    {
+      "cardName": "Buster Blader",
+      "attack": 2600,
+      "defense": 2300,
+      "level": 7,
+      "type": "Monster",
+      "artworkPath": "Sprites/Buster_Blader"
+    },
+    {
+      "cardName": "Alpha The Magnet Warrior",
+      "attack": 1400,
+      "defense": 1700,
+      "level": 4,
+      "type": "Monster",
+      "artworkPath": "Sprites/Alpha_Magnet_Warrior"
+    },
+    {
+      "cardName": "Beta The Magnet Warrior",
+      "attack": 1700,
+      "defense": 1600,
+      "level": 4,
+      "type": "Monster",
+      "artworkPath": "Sprites/Beta_Magnet_Warrior"
+    },
+    {
+      "cardName": "Gamma The Magnet Warrior",
+      "attack": 1500,
+      "defense": 1800,
+      "level": 4,
+      "type": "Monster",
+      "artworkPath": "Sprites/Gamma_Magnet_Warrior"
+    },
+    {
+      "cardName": "Valkyrion the Magna Warrior",
+      "attack": 3500,
+      "defense": 3850,
+      "level": 8,
+      "type": "Monster",
+      "artworkPath": "Sprites/Valkyrion_Magna_Warrior"
+    },
+    {
+      "cardName": "Slifer the Sky Dragon",
+      "attack": 0,
+      "defense": 0,
+      "level": 10,
+      "type": "Monster",
+      "artworkPath": "Sprites/Slifer_the_Sky_Dragon"
+    },
+    {
+      "cardName": "Summoned Skull",
+      "attack": 2500,
+      "defense": 1200,
+      "level": 6,
+      "type": "Monster",
+      "artworkPath": "Sprites/Summoned_Skull"
+    },
+    {
+      "cardName": "Dark Magic Attack",
+      "type": "Spell",
+      "artworkPath": "Sprites/Dark_Magic_Attack"
+    },
+    {
+      "cardName": "Monster Reborn",
+      "type": "Spell",
+      "artworkPath": "Sprites/Monster_Reborn"
+    },
+    {
+      "cardName": "Swords of Revealing Light",
+      "type": "Spell",
+      "artworkPath": "Sprites/Swords_of_Revealing_Light"
+    },
+    {
+      "cardName": "Magical Hats",
+      "type": "Trap",
+      "artworkPath": "Sprites/Magical_Hats"
+    },
+    {
+      "cardName": "Mirror Force",
+      "type": "Trap",
+      "artworkPath": "Sprites/Mirror_Force"
+    },
+    {
+      "cardName": "Spellbinding Circle",
+      "type": "Trap",
+      "artworkPath": "Sprites/Spellbinding_Circle"
+    }
+  ]
+}
